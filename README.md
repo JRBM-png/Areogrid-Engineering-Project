@@ -15,9 +15,7 @@ Aerogrid manages wind turbines with sensors,their servers struggle to keep up wi
 
 - 'Telemetry_data(in).csv' 24 hour sample of turbine sensor readings
 
-- 'architecture-diagram.draw.io' Proposed cloud architecture
-
-- 'architecture-diagram.png' Picture of the diagram in case you don't have draw.io
+- 'architecture-diagram.png' Picture of the diagram
 
 - ' Engineering Report.odt'
 
