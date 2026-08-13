@@ -26,5 +26,25 @@ Aerogrid manages wind turbines with sensors,their servers struggle to keep up wi
 
 ## How to run
 
-- placeholder
-  
+1. Clone this repository:
+
+git clone https://github.com/JRBM-png/Areogrid-Engineering-Project.git
+
+Alternatively if you don't have git download the folder and extract it
+
+2. Navigate into the project folder in the terminal:
+
+cd areogrid-engineering-project
+
+3. Install dependencies:
+
+pip install -r requirements.txt
+
+4. Run the script
+
+python3 analyse_turbines.py
+
+### Running with docker instead
+
+docker build -t aerogrid-analysis
+docker run areogrid-analysis
