@@ -1,0 +1,40 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="BeA1ldufooe5jwqoc3Ma">
+    <mxGraphModel dx="868" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pfw1t2kfdfYqq72hBiFT-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Sensors&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;(Turbines)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="461" as="geometry" />
+        </mxCell>
+        <mxCell id="pfw1t2kfdfYqq72hBiFT-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="490.5" as="sourcePoint" />
+            <mxPoint x="220" y="490.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pfw1t2kfdfYqq72hBiFT-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Queue&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;(AWS Kinesis)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="220" y="461" as="geometry" />
+        </mxCell>
+        <mxCell id="pfw1t2kfdfYqq72hBiFT-4" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="340" y="490" as="sourcePoint" />
+            <mxPoint x="400" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pfw1t2kfdfYqq72hBiFT-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Anomaly Detection&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;(AWS Lambda)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="400" y="461" as="geometry" />
+        </mxCell>
+        <mxCell id="pfw1t2kfdfYqq72hBiFT-8" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="100" width="50" x="520" y="441" as="geometry" />
+        </mxCell>
+        <mxCell id="pfw1t2kfdfYqq72hBiFT-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=light-dark(#EA6B66,#D0533A);" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Hot Data&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;(TIme series data base)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="570" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="pfw1t2kfdfYqq72hBiFT-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Cold Data&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;(Data Lake)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="570" y="510" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
