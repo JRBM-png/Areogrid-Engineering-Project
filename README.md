@@ -19,4 +19,13 @@ Aerogrid manages wind turbines with sensors,their servers struggle to keep up wi
 
 - 'architecture-diagram.png' Picture of the diagram in case you don't have draw.io
 
-- ' Engineering Report.odt'       
+- ' Engineering Report.odt'
+
+## Requirements
+
+- Python 3.10+
+- pandas
+
+  ## How to run
+
+  
