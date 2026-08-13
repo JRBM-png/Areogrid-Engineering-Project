@@ -34,7 +34,7 @@ Alternatively if you don't have git download the folder and extract it
 
 2. Navigate into the project folder in the terminal:
 
-cd Areogrid-engineering-project
+cd Areogrid-Engineering-Project
 
 3. Install dependencies:
 
