@@ -11,7 +11,7 @@ Aerogrid manages wind turbines with sensors,their servers struggle to keep up wi
 
 - 'Dockerfile' Contains a script so it runs on any machine
 
-- 'Requirements.txt' Python dependency
+- 'requirements.txt' Python dependency
 
 - 'Telemetry_data(in).csv' 24 hour sample of turbine sensor readings
 
