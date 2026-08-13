@@ -34,7 +34,7 @@ Alternatively if you don't have git download the folder and extract it
 
 2. Navigate into the project folder in the terminal:
 
-cd areogrid-engineering-project
+cd Areogrid-engineering-project
 
 3. Install dependencies:
 
@@ -46,5 +46,6 @@ python3 analyse_turbines.py
 
 ### Running with docker instead
 
-docker build -t aerogrid-analysis
+docker build -t aerogrid-analysis .
+
 docker run areogrid-analysis
