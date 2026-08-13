@@ -38,11 +38,18 @@ cd Areogrid-engineering-project
 
 3. Install dependencies:
 
+*NOTE* On some systems (modern debian/ubuntu) an "externally-managed-environment" error. If so create a virtual environment
+
+python3. -m venv venv
+source venv/bin/activate
+
+Then re-run:
+
 pip install -r requirements.txt
 
 4. Run the script
 
-python3 analyse_turbines.py
+python analyse_turbines.py
 
 ### Running with docker instead
 
