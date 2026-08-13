@@ -26,6 +26,6 @@ Aerogrid manages wind turbines with sensors,their servers struggle to keep up wi
 - Python 3.10+
 - pandas
 
-  ## How to run
+## How to run
 
   
