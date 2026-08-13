@@ -28,4 +28,5 @@ Aerogrid manages wind turbines with sensors,their servers struggle to keep up wi
 
 ## How to run
 
+- placeholder
   
