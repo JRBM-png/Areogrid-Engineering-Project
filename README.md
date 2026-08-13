@@ -40,7 +40,7 @@ cd Areogrid-engineering-project
 
 *NOTE* On some systems (modern debian/ubuntu) an "externally-managed-environment" error. If so create a virtual environment
 
-python3. -m venv venv
+python3 -m venv venv
 source venv/bin/activate
 
 Then re-run:
