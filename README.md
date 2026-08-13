@@ -13,11 +13,11 @@ Aerogrid manages wind turbines with sensors,their servers struggle to keep up wi
 
 - 'requirements.txt' Python dependency
 
-- 'Telemetry_data(in).csv' 24 hour sample of turbine sensor readings
+- 'telemetry_data(in).csv' 24 hour sample of turbine sensor readings
 
 - 'architecture-diagram.png' Picture of the diagram
 
-- ' Engineering Report.odt'
+- 'Engineering Report.odt'
 
 ## Requirements
 
