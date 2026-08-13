@@ -46,6 +46,6 @@ python3 analyse_turbines.py
 
 ### Running with docker instead
 
-docker build -t aerogrid-analysis .
+docker build -t areogrid-analysis .
 
 docker run areogrid-analysis
